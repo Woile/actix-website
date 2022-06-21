@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkactix_website=self.webpackChunkactix_website||[]).push([[8072],{8072:function(e,n,s){s.r(n),n.default='[package]\nname = "requests"\nversion = "1.0.0"\nedition = "2018"\n\n[dependencies]\nserde = "1.0"\nserde_json = "1.0"\nactix-web = "4"\nfutures = "0.3.1"\nactix-multipart = "0.3"\n'}}]);

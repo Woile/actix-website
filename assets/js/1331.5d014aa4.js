@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkactix_website=self.webpackChunkactix_website||[]).push([[1331],{1331:function(e,n,s){s.r(n),n.default='[package]\nname = "async-handlers"\nversion = "2.0.0"\nedition = "2018"\n\n[dependencies]\nactix-web = "4"\nfutures = "0.3.1"\nbytes = "0.5"\n'}}]);

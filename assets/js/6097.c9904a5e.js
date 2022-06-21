@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkactix_website=self.webpackChunkactix_website||[]).push([[6097],{6097:function(e,n,a){a.r(n),n.default='[package]\nname = "databases"\nversion = "1.0.0"\nedition = "2018"\n\n[dependencies]\nactix-web = "4"\n'}}]);

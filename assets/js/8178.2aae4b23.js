@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkactix_website=self.webpackChunkactix_website||[]).push([[8178],{8178:function(e,n,i){i.r(n),n.default='[package]\nname = "request-handlers"\nversion = "1.0.0"\nedition = "2018"\n\n[dependencies]\nactix-web = "4"\n'}}]);

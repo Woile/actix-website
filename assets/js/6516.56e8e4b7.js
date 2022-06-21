@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkactix_website=self.webpackChunkactix_website||[]).push([[6516],{6516:function(e,n,s){s.r(n),n.default='[package]\nname = "url-dispatch"\nversion = "1.0.0"\nedition = "2018"\nworkspace = "../"\n\n[dependencies]\nactix = "0.10"\nactix-web = "4"\nfutures = "0.3.1"\nopenssl = "0.10"\nserde = "1.0"\n'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkactix_website=self.webpackChunkactix_website||[]).push([[8936],{8936:function(e,t,i){i.r(t),t.default="max_width = 80\n"}}]);

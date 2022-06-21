@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkactix_website=self.webpackChunkactix_website||[]).push([[395],{395:function(e,n,i){i.r(n),n.default='[package]\nname = "application"\nversion = "1.0.0"\nedition = "2018"\nworkspace = "../"\n\n[dependencies]\nactix-web = "4"\n'}}]);

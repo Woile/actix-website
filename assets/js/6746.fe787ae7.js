@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkactix_website=self.webpackChunkactix_website||[]).push([[6746],{6746:function(e,t,i){i.r(t),t.default="max_width = 96\nreorder_imports = true\n"}}]);

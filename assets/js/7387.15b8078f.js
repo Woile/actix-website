@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkactix_website=self.webpackChunkactix_website||[]).push([[7387],{3073:function(e,n,t){t.r(n),n.default='[package]\nname = "websockets"\nversion = "1.0.0"\nedition = "2018"\n\n[dependencies]\nactix = "0.13"\nactix-web = "4"\nactix-web-actors = "4.0.0"\n'}}]);

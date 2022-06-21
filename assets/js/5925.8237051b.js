@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkactix_website=self.webpackChunkactix_website||[]).push([[5925],{5925:function(e,n,s){s.r(n),n.default='[package]\nname = "responder-trait"\nversion = "1.0.0"\nedition = "2018"\n\n[dependencies]\nactix-web = "4"\nfutures = "0.3.1"\nserde = "1.0"\nserde_json = "1.0"\n'}}]);
